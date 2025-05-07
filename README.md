@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Kesharwani</h1>
 <h3 align="center">A passionate Full Stack Developer,Competitive Programmer</h3>
 
-- 🔭 I’m currently working on **Facial Attendance System**
+- 🔭 I’m currently working on **AI Timetable Generator**
 
 - 🌱 I’m currently learning **Machine learning and Deep Learning**
 
-- 👯 I’m have solved more that **1000+ DSA problems on different platforms**
+- 👯 I’m have solved more that **1500+ DSA problems on different platforms**
 
 - 💬 I'm a 3 star CP coder on codechef  
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
-- 🤝 I’m looking for help with **Internships and Jobs**
+- 🤝 I’m looking for help with **Jobs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/utkars3](https://github.com/utkars3)
 
